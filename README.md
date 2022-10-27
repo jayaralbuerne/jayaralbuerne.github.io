@@ -6,9 +6,7 @@
 <input type="hidden" name="hosted_button_id" value="GH2KBFHPPJQ38">
 <table>
 <tr><td><input type="hidden" name="on0" value="Choose Item Plan">Choose Item Plan</td></tr><tr><td><select name="os0">
-	<option value="Domain + Website">Domain + Website P3,000.00 PHP</option>
-	<option value="Domain + Cpanel + Website">Domain + Cpanel + Website P10,000.00 PHP</option>
-	<option value="Server + WHM + CPanel + Webhost">Server + WHM + CPanel + Webhost P150,000.00 PHP</option>
+	<option value="Domain + Cpanel + Website + WHM + CPanel">Domain + Cpanel + Website P30,000.00 PHP</option>
 </select> </td></tr>
 <tr><td><input type="hidden" name="on1" value="Downpayment">Downpayment</td></tr><tr><td><select name="os1">
 	<option value="Enterprise">Enterprise </option>
