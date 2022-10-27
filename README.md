@@ -10,8 +10,6 @@
 </select> </td></tr>
 <tr><td><input type="hidden" name="on1" value="Downpayment">Downpayment</td></tr><tr><td><select name="os1">
 	<option value="Enterprise">Enterprise </option>
-	<option value="Bussness">Bussness </option>
-	<option value="Resseller">Resseller </option>
 </select> </td></tr>
 <tr><td><input type="hidden" name="on2" value="Payment System">Payment System</td></tr><tr><td><input type="text" name="os2" maxlength="200"></td></tr>
 </table>
